@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <share-target android:targetClass=
+                          "com.grokkingandroid.sharingshortcuts.ShareTargetActivity">
+        <data android:mimeType="image/*"/>
+        <category android:name=
+                          "com.grokkingandroid.sharingshortcuts.IMAGE_SHARE_TARGET"/>
+    </share-target>
+    <share-target android:targetClass=
+                          "com.grokkingandroid.sharingshortcuts.ShareTargetActivity">
+        <data android:mimeType="text/*"/>
+        <category android:name=
+                          "com.grokkingandroid.sharingshortcuts.TEXT_SHARE_TARGET"/>
+    </share-target>
+</shortcuts>

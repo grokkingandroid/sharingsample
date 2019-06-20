@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GrokkingAndroidSharingShortcuts</string>
+    <string name="label_target_activity">Target</string>
+    <string name="label_extras">Extras</string>
+    <string name="label_categories">Categories</string>
+    <string name="label_action">Action</string>
+</resources>
